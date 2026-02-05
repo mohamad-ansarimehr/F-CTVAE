@@ -43,7 +43,7 @@ If you use this method or code in your research, please cite:
 ```bibtex
 @article{ansarimehr2025facvae,
   title={F-ACVAE: A Federated Adaptive Conditional Variational Auto-Encoder for Privacy-Preserving Intrusion Detection in IoT Networks},
-  author={Ansarimehr, Mohammad and Changiz, Somayeh and Baghshani, Ehsan and Mousavi, Ali},
+  author={Ansarimehr, Mohammad and Changiz, Somayeh and Baghishani, Ehsan and Mousavi, Ali},
   journal={IEEE Transactions on ...}, % To be updated
   year={2025}
 }
